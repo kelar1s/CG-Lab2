@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\",
+  "WorkspaceRootPath": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|d:\\repos\\computer graphic\\lab2tomogramvisualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|d:\\repos\\computer graphic\\lab2tomogramvisualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|d:\\repos\\computer graphic\\lab2tomogramvisualizer\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|d:\\repos\\computer graphic\\lab2tomogramvisualizer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|d:\\repos\\computer graphic\\lab2tomogramvisualizer\\bin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|d:\\repos\\computer graphic\\cg-lab2\\lab2tomogramvisualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\bin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DE23B8B-D7A0-49DB-86D2-7123D3FA7E7A}|Lab2TomogramVisualizer.csproj|solutionrelative:bin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Form1.Designer.cs",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAswFkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T14:31:36.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "View.cs",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\View.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\View.cs",
               "RelativeDocumentMoniker": "View.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\View.cs",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\View.cs",
               "RelativeToolTip": "View.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T13:17:46.175Z",
               "EditorCaption": ""
@@ -62,35 +62,34 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Bin.cs",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Bin.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Bin.cs",
               "RelativeDocumentMoniker": "Bin.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Bin.cs",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Bin.cs",
               "RelativeToolTip": "Bin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:11:06.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T13:11:06.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Form1.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Form1.cs",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA0wDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T12:58:32.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Form1.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab2TomogramVisualizer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab2\\Lab2TomogramVisualizer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T12:58:01.188Z",

@@ -47,7 +47,7 @@ namespace Lab2TomogramVisualizer
                 view.SetupView(glControl1.Width, glControl1.Height);
                 loaded = true;
                 glControl1.Invalidate();
-                trackBar1.Maximum = Bin.Y - 1;
+                trackBar1.Maximum = Bin.Z - 1;
             }
         }
 
